@@ -1,0 +1,10 @@
+#voting problem
+
+a=18
+if a>=18:
+  print("eligible for voting:")
+elif:
+  print("not eligible for voting")
+else:
+  print("invalid")
+  
